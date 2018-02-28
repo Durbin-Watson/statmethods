@@ -1,6 +1,6 @@
 # Статистические методы в прикладных задачах
 
-Видео-курсы
+## Видео-курсы
 
 1. Язык программирования Python https://yandexdataschool.ru/edu-process/program/big-data/python
 
@@ -16,23 +16,17 @@ https://yandexdataschool.ru/edu-process/program/big-data/machine-learning2
 4. Основы статистики в машинном обучении
 https://yandexdataschool.ru/edu-process/program/big-data/statistics
 
-Основы статистики в машинном обучении
+5. Основы статистики в машинном обучении
 https://yandexdataschool.ru/edu-process/program/big-data/statistics
 
-5. Методы и системы обработки больших данных
+6. Методы и системы обработки больших данных
 https://yandexdataschool.ru/edu-process/program/big-data/big-data1
 
-Машинное обучение на больших данных
+7. Машинное обучение на больших данных
 https://yandexdataschool.ru/edu-process/program/big-data/big-data-ml
 
-Методы оптимизации в машинном обучении
+8. Методы оптимизации в машинном обучении
 https://yandexdataschool.ru/edu-process/program/big-data/oml
 
-Обучение представлений и глубокое обучение
+9. Обучение представлений и глубокое обучение
 https://yandexdataschool.ru/edu-process/program/big-data/deep-learning
-
-
-О регрессии в Python
-https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html
-https://github.com/numpy/numpy/blob/v1.14.0/numpy/lib/polynomial.py#L398-L611
