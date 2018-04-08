@@ -37,3 +37,6 @@ http://scikit-learn.org/stable/supervised_learning.html
 
 3. Сравнение классификаторов
 http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
+
+4. Методы оценки качества классификатора
+http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html
