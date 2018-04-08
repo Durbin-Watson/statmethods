@@ -10,7 +10,7 @@
 
 3. Наивный байесовский классификатор. Проведите классификацию наивным байесовским классификатором.
 
-4. Анализ результатов. Постройте графики классификации по нейросетевой и байесвоской моделям, сравните точность классификаторов на тестовой выборке.
+4. Анализ результатов. Постройте графики классификации (разбиения точек на классы) по нейросетевой и байесвоской моделям, сравните точность классификаторов на тестовой выборке.
 
 
 ## Вопросы к защите
@@ -32,3 +32,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.
 
 2. Доступные в sklearn методы  классификации
 http://scikit-learn.org/stable/supervised_learning.html
+
+3. Сравнение классификаторов
+http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
