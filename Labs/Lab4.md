@@ -1,4 +1,4 @@
-# Лабораторная работа 4 "Методы кластеризации"
+# Лабораторная работа 4 "Кластерный анализ"
 
 Срок сдачи: 16 мая.
 
@@ -26,4 +26,4 @@
 
 1. Средства кластеризации sklearn http://scikit-learn.org/stable/modules/clustering.html
 
-2. Презентация по качеству кластеризации http://synthesis.ipi.ac.ru/sigmod/seminar/sivogolovko20111124.pdf
+2. Презентация по методам оценки качества кластеризации http://synthesis.ipi.ac.ru/sigmod/seminar/sivogolovko20111124.pdf
