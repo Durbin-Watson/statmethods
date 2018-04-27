@@ -33,3 +33,5 @@
 4. Сравнение классификаторов http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 
 5. Распознавание рукописных цифр в sklearn http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
+
+6. Общая методика применения нейросетевых моделей к задаче классификации https://basegroup.ru/community/articles/classification
